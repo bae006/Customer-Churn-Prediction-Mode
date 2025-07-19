@@ -32,13 +32,4 @@
   - Accuracy
 
 ## 📊 Результаты
-
-Лучшие результаты показала модель CatBoost с метриками:
-               precision    recall  f1-score   support
-
-           0       0.93      1.00      0.96    906735
-           1       0.99      0.82      0.90    370544
-
-    accuracy                           0.95   1277279
-   macro avg       0.96      0.91      0.93   1277279
-weighted avg       0.95      0.95      0.94   1277279
+Лучшие результаты показала модель CatBoost macro f1_score = 0.93
