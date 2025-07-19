@@ -28,8 +28,7 @@
   - Gradient Boosting
 
 - Метрики оценки:
-  - Precision, Recall, F1-score
-  - Accuracy
+  - F1-score
 
 ## 📊 Результаты
 Лучшие результаты показала модель CatBoost macro_f1_score = 0.93
