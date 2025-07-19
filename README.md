@@ -32,4 +32,4 @@
   - Accuracy
 
 ## 📊 Результаты
-Лучшие результаты показала модель CatBoost macro f1_score = 0.93
+Лучшие результаты показала модель CatBoost macro_f1_score = 0.93
